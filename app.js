@@ -4,12 +4,12 @@ const nextBtn = document.querySelector('.arrow_icon_box');
 const mainImage = document.querySelector('.main img.one');
 const shadowOneImage = document.querySelector('.shadow.one img.one');
 const images = [
-  './image/First_place.jpg',
-  './image/face_animal.png',
-  './image/pokemon-bg.jpg',
-  './image/ksnu.png',
-  './image/ksnu.png',
-  './image/ksnu.png'
+  './First_place.jpg',
+  './face_animal.png',
+  './pokemon-bg.jpg',
+  './ksnu.png',
+  './ksnu.png',
+  './ksnu.png'
 ];
 
 hamburger_menu.addEventListener('click', () => {
