@@ -5,7 +5,7 @@ const mainImage = document.querySelector('.main img.one');
 const shadowOneImage = document.querySelector('.shadow.one img.one');
 const images = [
   './First_place.jpg',
-  './face_animal.png',
+  './animaltest.png',
   './pokemon-bg.jpg',
   './ksnu.png',
   './ksnu.png',
